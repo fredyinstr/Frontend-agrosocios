@@ -1,0 +1,11 @@
+/*Remove the scrollbar from Chrome, Safari, Edge and IE*/
+
+
+/*::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+
+* {
+    -ms-overflow-style: none !important;
+}*/
